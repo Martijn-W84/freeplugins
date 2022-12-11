@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Valhalla Supermassive",
+        "developer": "Valhalla DSP",
+        "img":"/images/valhalla_supermassive.webp",
+        "category": "reverb",
+        "descr": "ValhallaSupermassive has been designed from the ground up for MASSIVE delays and reverbs.",
+        "url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"  
+    },
+    {
+        "name": "Valhalla Space Modulator",
+        "developer": "Valhalla DSP",
+        "img":"/images/valhalla_spacemodulator.webp",
+        "category": "modulator",
+        "descr": "Eleven algorithms allow you to get all sorts of effects that defy description.",
+        "url": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/"  
+    },    
+    {
+        "name": "Valhalla Freq Echo",
+        "developer": "Valhalla DSP",
+        "img":"/images/valhalla_freqecho.webp",
+        "category": "modulation",
+        "descr": "Freq Echo is perfect for dub, Dr. Who, and all of your psychedelic needs.",
+        "url": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/"  
+    },
+    {
+        "name": "Vital",
+        "developer": "Matt Tytel",
+        "img":"/images/vital.webp",
+        "category": "synth",
+        "descr": "Spectral warping wavetable synth.",
+        "url": "https://vital.audio/"  
+    },
+    {
+        "name": "Apricot",
+        "developer": "Nakst",
+        "img":"/images/apricot.webp",
+        "category": "synth",
+        "descr": "The efficient hybrid synthesizer with a massive sound.",
+        "url": "https://nakst.gitlab.io/apricot/"  
+    },
+    {
+        "name": "Kilohearts Essentials",
+        "developer": "Kilohearts",
+        "img":"/images/kilohearts_essentials.webp",
+        "category": "bundle",
+        "descr": "Kilohearts Essentials is a free collection of extremely useful effects which can be used as regular plugins in your DAW or loaded as Snapins in any Kilohearts Snapin Host.",
+        "url": "https://kilohearts.com/products/kilohearts_essentials"  
+    },
+    {
+        "name": "MFreeFXBundle",
+        "developer": "Melda Production",
+        "img":"/images/MFreeFXBundle.webp",
+        "category": "bundle",
+        "descr": "The biggest and the most powerful FREE plugins pack available.",
+        "url": "https://www.meldaproduction.com/MFreeFXBundle"  
+    },
+    {
+        "name": "Surge XT",
+        "developer": "Surge Synth Team",
+        "img":"/images/surge.webp",
+        "category": "synth",
+        "descr": "Free and open source hybrid synthesizer.",
+        "url": "https://surge-synthesizer.github.io/"  
+    },
+    {
+        "name": "Filterstep",
+        "developer": "Audiomodern",
+        "img":"/images/filterstep.webp",
+        "category": "filter",
+        "descr": "Filterstep is a modern motion filter plugin which provides a great deal of potential for all kinds of intricate rhythmic movement.",
+        "url": "https://audiomodern.com/shop/plugins/filterstep/"  
+    },
+    {
+        "name": "Panflow",
+        "developer": "Audiomodern",
+        "img":"/images/panflow.webp",
+        "category": "panning",
+        "descr": "Designed to Shape complex, evolving panning patterns and add random, rhythmical movement to any audio track in real-time.",
+        "url": "https://audiomodern.com/shop/plugins/panflow"  
+    } ,
+    {
+        "name": "Gatelab",
+        "developer": "Audiomodern",
+        "img":"/images/gatelab.webp",
+        "category": "sequencer",
+        "descr": "Gatelab is a creative gate sequencer, volume Modulation generator and beyond.",
+        "url": "https://audiomodern.com/shop/plugins/gatelab/"  
+    } ,
+    {
+        "name": "Emergence",
+        "developer": "Daniel Gergely",
+        "img":"/images/emergence.webp",
+        "category": "granular",
+        "descr": "Emergence generates wild granular effects on your sound.",
+        "url": "https://daniel-gergely.itch.io/emergence"  
+    },
+    {
+        "name": "Deelay",
+        "developer": "Sixth Sample",
+        "img":"/images/deelay.webp",
+        "category": "delay",
+        "descr": "Created in collaboration with Integraudio, Deelay packs loads of features in a simple, minimalistic interface.",
+        "url": "https://sixthsample.com/deelay/"  
+    },
+    {
+        "name": "PaulXStretch",
+        "developer": "Sonosaurus",
+        "img":"/images/paulxstretch.webp",
+        "category": "time stretch",
+        "descr": "PaulXStretch is designed for radical transformation of sounds.",
+        "url": "https://sonosaurus.com/paulxstretch/"  
+    },
+    {
+        "name": "TAL-Reverb-4",
+        "developer": "TAL Software",
+        "img":"/images/talreverb4.webp",
+        "category": "reverb",
+        "descr": "TAL-Reverb-4 is a high quality plate reverb with a vintage 80's character.",
+        "url": "https://tal-software.com/products/tal-reverb-4"  
+    },
+    {
+        "name": "LABS",
+        "developer": "Spitfire Audio",
+        "img":"/images/labs.webp",
+        "category": "instrument",
+        "descr": "An infinite series of FREE software instruments, made by musicians, for musicians.",
+        "url": "https://labs.spitfireaudio.com/?sortBy=prod_products_labs_latest"  
+    },
+    {
+        "name": "BBC SO Discover",
+        "developer": "Spitfire Audio",
+        "img":"/images/bbcsodiscover.webp",
+        "category": "instrument",
+        "descr": "33 instruments brought to life inside a free, easy-to-use plugin, compatible with any major music creation software.",
+        "url": "https://www.spitfireaudio.com/bbc-symphony-orchestra-discover"  
+    },
+    {
+        "name": "Decent Sampler",
+        "developer": "David Hilowitz",
+        "img":"/images/decentsampler.webp",
+        "category": "instrument",
+        "descr": "The Decent Samples plugin is a FREE sample player plugin that allows you to play sample libraries in the DecentSampler format.",
+        "url": "https://www.decentsamples.com/product/decent-sampler-plugin/"  
+    },
+    {
+        "name": "Analog Obsession",
+        "developer": "Rıdvan Küçük",
+        "img":"/images/analogobsession.webp",
+        "category": "bundle",
+        "descr": "Bringing the classic sound of analog hardware into your DAW.",
+        "url": "https://analogobsession.com/"  
+    },
+    {
+        "name": "Airwindows",
+        "developer": "Chris Johnson",
+        "img":"/images/airwindows.webp",
+        "category": "bundle",
+        "descr": "Handsewn bespoke digital audio. Countless high quality UI-less plugins.",
+        "url": "https://www.airwindows.com/"  
+    },
+    {
+        "name": "Baby Comeback",
+        "developer": "Baby Audio",
+        "img":"/images/babycomeback.webp",
+        "category": "delay",
+        "descr": "Baby Comeback offers a stripped-down version of Comeback Kid.",
+        "url": "https://babyaud.io/freebies"  
+    },
+    {
+        "name": "OTT",
+        "developer": "Xfer records",
+        "img":"/images/ott.webp",
+        "category": "compressor",
+        "descr": "Xfer Records OTT is a free re-creation of a popular aggressive multiband compressor set-up used by many dubstep and electro producers.",
+        "url": "https://xferrecords.com/freeware"  
+    },
+    {
+        "name": "Pendulate",
+        "developer": "Newfangled Audio",
+        "img":"/images/pendulate.webp",
+        "category": "synth",
+        "descr": "Pendulate is a chaotic mono-synth that uses a brand new double-pendulum-oscillator to create previously unheard sounds.",
+        "url": "https://www.eventideaudio.com/plug-ins/pendulate/"  
+    },
+    {
+        "name": "Wider",
+        "developer": "Polyverse",
+        "img":"/images/wider.webp",
+        "category": "imager",
+        "descr": "Polyverse Wider gives any mono signal the illusion of an expanded stereo image with an awe-inspiring amount of width.",
+        "url": "https://polyversemusic.com/products/wider/"  
+    },
+    {
+        "name": "Cardinal",
+        "developer": "KXStudio",
+        "img":"/images/cardinal.webp",
+        "category": "modular",
+        "descr": "Cardinal is a free and open-source virtual modular synthesizer plugin based on VCV Rack 2.",
+        "url": "https://github.com/DISTRHO/Cardinal/releases"  
+    }                   
+]

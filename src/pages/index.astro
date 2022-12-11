@@ -1,0 +1,37 @@
+---
+	import Layout from '../layouts/Layout.astro';
+	import Header from '../components/Header.astro';
+	import plugins from '../data/plugins.json';
+	import { categories } from '../functions/categories';
+	import { compareStrings } from "../functions/functions.js";
+	plugins.sort(function(a, b) {
+        return compareStrings(a.name, b.name);
+    })
+	plugins.forEach(plugin => {
+		plugin.category = plugin.category.toUpperCase();
+	});
+	import Content from '../components/Content.svelte';
+---
+<meta name="description" content="Free plugins for everyone">
+
+<Layout title="Free Plugins">
+	<Header></Header>
+	<main>
+		<Content plugins={plugins} categories={categories} client:load></Content>
+	</main>	
+</Layout>
+
+<style>
+	main {
+		margin: auto;
+		padding: 1.5rem;
+		max-width: 1000px;
+		margin-top: 60px;			
+	}
+	h1 {
+		font-size: 3rem;
+		font-weight: 800;
+		margin: 0;
+		text-align: center;
+	}
+</style>
