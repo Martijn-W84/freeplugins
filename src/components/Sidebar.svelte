@@ -40,13 +40,13 @@
 
   @media (min-height: 700px) {
     nav { 
-      width: 12rem; 
+      width: 14rem; 
       box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
     }
 
     .button-container {
       grid-template-columns: repeat(1, 1fr); 
-      grid-template-rows: repeat(15, 1fr);
+      grid-template-rows: repeat(18, 1fr);
     }
   }
 
