@@ -40,7 +40,7 @@
 
   @media (min-height: 700px) {
     nav { 
-      width: 14rem; 
+      width: 12rem; 
       box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
     }
 
@@ -53,14 +53,14 @@
   .btn {
     border: none;
     outline: none;
-    padding: 12px 16px;
+    padding: 12px 12px;
     background-color: #fff;
     cursor: pointer;
     transition-duration: 250ms;
     border-radius: 20px;
     margin: 5px;
     font-family: Lato;
-    font-size: large;
+    font-size: medium;
   }
 
   .btn:hover {  
