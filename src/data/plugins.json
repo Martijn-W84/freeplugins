@@ -260,7 +260,15 @@
         "developer": "Surge Synth Team",
         "img":"/images/stochas.webp",
         "category": "sequencer",
-        "descr": "Open-source advanced probabilistic polyrhythmic sequencer plugin",
+        "descr": "Open-source advanced probabilistic polyrhythmic sequencer plugin.",
         "url": "https://stochas.org/"  
+    },
+    {
+        "name": "SINEfactory",
+        "developer": "Orchestral Tools",
+        "img":"/images/SINEfactory.webp",
+        "category": "instrument",
+        "descr": "Great sounds, totally free. Subscribe to SINEfactory and get a steady stream of exclusive free instruments delivered straight to your mailbox.",
+        "url": "https://www.orchestraltools.com/sinefactory"  
     }                             
 ]
