@@ -1,7 +1,5 @@
 ---
 	import Layout from '../layouts/Layout.astro';
-	import Header from '../components/Header.astro';
-	import Footer from '../components/Footer.astro';
 	import plugins from '../data/plugins.json';
 	import { categories } from '../functions/categories';
 	import { compareStrings } from "../functions/functions.js";
@@ -13,14 +11,11 @@
 	});
 	import Content from '../components/Content.svelte';
 ---
-<meta name="description" content="Free plugins for everyone">
 
-<Layout title="Free Plugins">
-	<Header></Header>
+<Layout title="Free Plugins">	
 	<main>
 		<Content plugins={plugins} categories={categories} client:load></Content>
-	</main>
-	<Footer></Footer>	
+	</main>		
 </Layout>
 
 <style>
