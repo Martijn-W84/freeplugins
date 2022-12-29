@@ -270,5 +270,13 @@
         "category": "instrument",
         "descr": "Great sounds, totally free. Subscribe to SINEfactory and get a steady stream of exclusive free instruments delivered straight to your mailbox.",
         "url": "https://www.orchestraltools.com/sinefactory"  
+    },
+    {
+        "name": "Layers",
+        "developer": "Orchestral Tools",
+        "img":"/images/layers.webp",
+        "category": "instrument",
+        "descr": "Layers is a free orchestral VST instrument, and an easy way to add orchestral sounds to your compositions and productions.",
+        "url": "https://www.orchestraltools.com/store/collections/layers"  
     }                             
 ]
