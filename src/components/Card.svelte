@@ -6,7 +6,7 @@
 {#if show}
 <li class="link-card">
 	<a href={plugin.url} target="_blank" rel="noreferrer">
-		<img src={plugin.img} alt={plugin.name} />
+		<img src={plugin.img} alt={plugin.name} width={plugin.imgwidth} height={plugin.imgheigth} />
 		<div class="title-container">
 			<h2>{plugin.name}</h2>
 			<div class="category">{plugin.category}</div>

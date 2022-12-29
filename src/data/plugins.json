@@ -3,6 +3,8 @@
         "name": "Valhalla Supermassive",
         "developer": "Valhalla DSP",
         "img":"/images/valhalla_supermassive.webp",
+        "imgwidth": "960px",
+        "imgheight": "509px",
         "category": "reverb",
         "descr": "ValhallaSupermassive has been designed from the ground up for MASSIVE delays and reverbs.",
         "url": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"  
@@ -11,6 +13,8 @@
         "name": "Valhalla Space Modulator",
         "developer": "Valhalla DSP",
         "img":"/images/valhalla_spacemodulator.webp",
+        "imgwidth": "960px",
+        "imgheight": "437px",
         "category": "modulator",
         "descr": "Eleven algorithms allow you to get all sorts of effects that defy description.",
         "url": "https://valhalladsp.com/shop/modulation/valhalla-space-modulator/"  
@@ -19,6 +23,8 @@
         "name": "Valhalla Freq Echo",
         "developer": "Valhalla DSP",
         "img":"/images/valhalla_freqecho.webp",
+        "imgwidth": "960px",
+        "imgheight": "413px",
         "category": "modulation",
         "descr": "Freq Echo is perfect for dub, Dr. Who, and all of your psychedelic needs.",
         "url": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/"  
@@ -27,6 +33,8 @@
         "name": "Vital",
         "developer": "Matt Tytel",
         "img":"/images/vital.avif",
+        "imgwidth": "923px",
+        "imgheight": "540px",
         "category": "synth",
         "descr": "Spectral warping wavetable synth.",
         "url": "https://vital.audio/"  
@@ -35,6 +43,8 @@
         "name": "Apricot",
         "developer": "Nakst",
         "img":"/images/apricot.webp",
+        "imgwidth": "828px",
+        "imgheight": "522px",
         "category": "synth",
         "descr": "The efficient hybrid synthesizer with a massive sound.",
         "url": "https://nakst.gitlab.io/apricot/"  
@@ -43,6 +53,8 @@
         "name": "Kilohearts Essentials",
         "developer": "Kilohearts",
         "img":"/images/kilohearts_essentials.webp",
+        "imgwidth": "3840px",
+        "imgheight": "1233px",
         "category": "bundle",
         "descr": "Kilohearts Essentials is a free collection of extremely useful effects which can be used as regular plugins in your DAW or loaded as Snapins in any Kilohearts Snapin Host.",
         "url": "https://kilohearts.com/products/kilohearts_essentials"  
@@ -50,7 +62,9 @@
     {
         "name": "MFreeFXBundle",
         "developer": "Melda Production",
-        "img":"/images/MFreeFXBundle.webp",
+        "img":"/images/MFreeFXBundle.webp",        
+        "imgwidth": "512px",
+        "imgheight": "335px",
         "category": "bundle",
         "descr": "The biggest and the most powerful FREE plugins pack available.",
         "url": "https://www.meldaproduction.com/MFreeFXBundle"  
@@ -59,6 +73,8 @@
         "name": "Surge XT",
         "developer": "Surge Synth Team",
         "img":"/images/surge.avif",
+        "imgwidth": "801px",
+        "imgheight": "499px",
         "category": "synth",
         "descr": "Free and open source hybrid synthesizer.",
         "url": "https://surge-synthesizer.github.io/"  
