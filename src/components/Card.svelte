@@ -6,7 +6,7 @@
 {#if show}
 <li class="link-card">
 	<a href={plugin.url} target="_blank" rel="noreferrer">
-		<img src={plugin.img} alt={plugin.name} width={plugin.imgwidth} height={plugin.imgheigth} />
+		<img src={plugin.img} alt={plugin.name} width={plugin.imgwidth}/>
 		<div class="title-container">
 			<h2>{plugin.name}</h2>
 			<div class="category">{plugin.category}</div>
@@ -53,20 +53,24 @@
 		margin: 0;
 		font-size: 1.25rem;
 		transition: color 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+		line-height: 1.75rem;
 	}
 	h3 {
 		margin: 0;
 		font-size: 1rem;
 		transition: color 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+		line-height: 1.4rem;
 	}
 	img{
 		width: 100%;
         border-radius: 10px;
+		min-height: 50px;
 	}
 	p {
 		margin-top: 0.5rem;
 		margin-bottom: 0;
 		color: #000;
+		line-height: 1.4rem;
 	}
 	.link-card:is(:hover, :focus-within) {
 		background-position: 0;
