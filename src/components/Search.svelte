@@ -4,24 +4,39 @@
 	export let elm;	
 </script>
 
-<div id="search-input-cont">
-	<input type="text" 
-				id="search-field" 
-				placeholder="" 
-				autocomplete="off"
-				bind:value={searchTerm}
-				on:input
-				bind:this={elm} />
-	 <svg width="32" height="32" viewBox="0 0 322 322" fill="none" xmlns="http://www.w3.org/2000/svg" class:searchActive on:click on:keyup>
-		<circle id="circle" cx="139" cy="131" r="90" stroke="black" stroke-width="25" class:searchActive/>
-		<line id="posLine" x1="209.142" y1="204" x2="282.681" y2="277.539" stroke="black" stroke-width="25" stroke-linecap="round" class:searchActive/>
-		<line id="negLine" x1="209.142" y1="204" x2="282.681" y2="277.539" stroke="black" stroke-width="25" stroke-linecap="round" class:searchActive/>					
-	</svg>	
+<div id="search">	
+	<div id="search-input-cont">
+		<input type="text" 
+					id="search-field" 
+					placeholder="Search"
+					autocomplete="off"
+					bind:value={searchTerm}
+					on:input
+					bind:this={elm} />
+		<svg width="32" height="32" viewBox="0 0 322 322" fill="none" xmlns="http://www.w3.org/2000/svg" class:searchActive on:click on:keyup>
+			<circle id="circle" cx="139" cy="131" r="90" stroke="black" stroke-width="25" class:searchActive/>
+			<line id="posLine" x1="209.142" y1="204" x2="282.681" y2="277.539" stroke="black" stroke-width="25" stroke-linecap="round" class:searchActive/>
+			<line id="negLine" x1="209.142" y1="204" x2="282.681" y2="277.539" stroke="black" stroke-width="25" stroke-linecap="round" class:searchActive/>					
+		</svg>	
+		<label id="search-label" for="search-field">Search</label>
+	</div>	
 </div>
 
 <style>
-	#search-input-cont {
+	#search {
 		width: 50%;
+		position: relative;		
+	}
+
+	label{
+		position: absolute;
+		top: 12px;
+		left: 22px;
+		opacity: 0.7;
+	}
+
+	#search-input-cont {
+		width: 100%;
 		display: flex;
 		align-items: center;
 		margin: 0 0 0px 0px;
@@ -75,5 +90,17 @@
         border-width: 0px;
         border-style:none;
         border-radius: 30px;
+	}
+
+	#search-field:not(:placeholder-shown) ~ label {
+		opacity: 0;
+	}
+
+	#search-field:focus ~ label {
+		opacity: 0;
+	}
+
+	input::placeholder{
+    	opacity:0;
 	}
 </style>
