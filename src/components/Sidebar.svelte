@@ -46,7 +46,7 @@
 
     .button-container {
       grid-template-columns: repeat(1, 1fr); 
-      grid-template-rows: repeat(18, 1fr);
+      grid-template-rows: repeat(19, 1fr);
     }
   }
 

@@ -33,6 +33,7 @@
 		top: 12px;
 		left: 22px;
 		opacity: 0.7;
+		transition: 0.1s ease-in-out;
 	}
 
 	#search-input-cont {

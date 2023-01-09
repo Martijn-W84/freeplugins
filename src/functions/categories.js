@@ -1,1 +1,1 @@
-export const categories = ["all", "bundle", "compressor", "delay", "filter", "glitch", "granular", "imager", "instrument", "modular", "modulation", "multi-fx", "panning", "reverb", "sequencer", "synth", "tape", "time stretch"]
+export const categories = ["all", "analyzer", "bundle", "compressor", "delay", "filter", "glitch", "granular", "imager", "instrument", "modular", "modulation", "multi-fx", "panning", "reverb", "sequencer", "synth", "tape", "time stretch"]

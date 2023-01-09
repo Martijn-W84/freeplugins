@@ -248,7 +248,7 @@
         "url": "https://chowdsp.com/products.html"  
     },
     {
-        "name": "Legacy",
+        "name": "Audio Damage Legacy",
         "developer": "Audio Damage",
         "img":"/images/audiodamage.avif",
         "category": "bundle",
@@ -294,5 +294,21 @@
         "category": "instrument",
         "descr": "Layers is a free orchestral VST instrument, and an easy way to add orchestral sounds to your compositions and productions.",
         "url": "https://www.orchestraltools.com/store/collections/layers"  
-    }                             
+    },
+    {
+        "name": "Span",
+        "developer": "Voxengo",
+        "img":"/images/span.webp",
+        "category": "analyzer",
+        "descr": "SPAN is a free real-time “fast Fourier transform” audio spectrum analyzer AAX, AudioUnit, and VST plugin for professional sound and music production applications.",
+        "url": "https://www.voxengo.com/product/span/"  
+    },
+    {
+        "name": "Oi, Grandad!",
+        "developer": "Public Samples",
+        "img":"/images/oigrandad.webp",
+        "category": "synth",
+        "descr": "Oi, Grandad! is a 4 voice granular synthesiser inspired by modular synthesis and certain, lazy DAW compositon workflows.",
+        "url": "https://github.com/publicsamples/Oi-Grandad"  
+    }                              
 ]
