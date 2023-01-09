@@ -32,7 +32,7 @@
     {
         "name": "Vital",
         "developer": "Matt Tytel",
-        "img":"/images/vital.avif",
+        "img":"/images/vital.webp",
         "imgwidth": "923px",
         "imgheight": "540px",
         "category": "synth",
@@ -72,7 +72,7 @@
     {
         "name": "Surge XT",
         "developer": "Surge Synth Team",
-        "img":"/images/surge.avif",
+        "img":"/images/surge.webp",
         "imgwidth": "801px",
         "imgheight": "499px",
         "category": "synth",
@@ -82,7 +82,7 @@
     {
         "name": "Filterstep",
         "developer": "Audiomodern",
-        "img":"/images/filterstep.avif",
+        "img":"/images/filterstep.webp",
         "category": "filter",
         "descr": "Filterstep is a modern motion filter plugin which provides a great deal of potential for all kinds of intricate rhythmic movement.",
         "url": "https://audiomodern.com/shop/plugins/filterstep/"  
@@ -202,7 +202,7 @@
     {
         "name": "Wider",
         "developer": "Polyverse",
-        "img":"/images/wider.avif",
+        "img":"/images/wider.webp",
         "category": "imager",
         "descr": "Polyverse Wider gives any mono signal the illusion of an expanded stereo image with an awe-inspiring amount of width.",
         "url": "https://polyversemusic.com/products/wider/"  
@@ -210,7 +210,7 @@
     {
         "name": "Cardinal",
         "developer": "KXStudio",
-        "img":"/images/cardinal.avif",
+        "img":"/images/cardinal.webp",
         "category": "modular",
         "descr": "Cardinal is a free and open-source virtual modular synthesizer plugin based on VCV Rack 2.",
         "url": "https://github.com/DISTRHO/Cardinal/releases"  
@@ -218,7 +218,7 @@
     {
         "name": "Dexed",
         "developer": "Dexed",
-        "img":"/images/dexed.avif",
+        "img":"/images/dexed.webp",
         "category": "synth",
         "descr": "Dexed is a multi platform, multi format plugin synth that is closely modeled on the Yamaha DX7.",
         "url": "https://asb2m10.github.io/dexed/"  
@@ -226,7 +226,7 @@
     {
         "name": "Zebralette",
         "developer": "U-he",
-        "img":"/images/zebralette.avif",
+        "img":"/images/zebralette.webp",
         "category": "synth",
         "descr": "Zebralette is a spectral synthesizer. It's an introduction to Zebra2's fantastic oscillators.",
         "url": "https://u-he.com/products/zebralette/"  
@@ -234,7 +234,7 @@
     {
         "name": "Triple Cheese",
         "developer": "U-he",
-        "img":"/images/triplecheese.avif",
+        "img":"/images/triplecheese.webp",
         "category": "synth",
         "descr": "Triple Cheese, winner of the 2006 KVR Developer Challenge, is a truly unique freeware synthesizer.",
         "url": "https://u-he.com/products/triplecheese/"  
@@ -250,7 +250,7 @@
     {
         "name": "Audio Damage Legacy",
         "developer": "Audio Damage",
-        "img":"/images/audiodamage.avif",
+        "img":"/images/audiodamage.webp",
         "category": "bundle",
         "descr": "Huge list of products that have been discontinued or upgraded to new versions.",
         "url": "https://www.audiodamage.com/pages/free-and-legacy"  
@@ -310,5 +310,13 @@
         "category": "synth",
         "descr": "Oi, Grandad! is a 4 voice granular synthesiser inspired by modular synthesis and certain, lazy DAW compositon workflows.",
         "url": "https://github.com/publicsamples/Oi-Grandad"  
+    },
+    {
+        "name": "Freequel Bundle",
+        "developer": "Noise Engineering",
+        "img":"/images/nefreequel.webp",
+        "category": "bundle",
+        "descr": "Noise Engineering's Freequel Bundle has two powerful synths and a mind-blowing distortion, FREE! Now with MPE, tooltips, and more.",
+        "url": "https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina"  
     }                              
 ]
