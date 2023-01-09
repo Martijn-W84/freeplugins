@@ -156,7 +156,7 @@
         "developer": "David Hilowitz",
         "img":"/images/decentsampler.webp",
         "category": "instrument",
-        "descr": "The Decent Samples plugin is a FREE sample player plugin that allows you to play sample libraries in the DecentSampler format.",
+        "descr": "The Decent Samples plugin is a FREE sample player plugin that allows you to play sample libraries in the DecentSampler format. Check Pianobook for libraries.",
         "url": "https://www.decentsamples.com/product/decent-sampler-plugin/"  
     },
     {
@@ -318,5 +318,37 @@
         "category": "bundle",
         "descr": "Noise Engineering's Freequel Bundle has two powerful synths and a mind-blowing distortion, FREE! Now with MPE, tooltips, and more.",
         "url": "https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina"  
-    }                              
+    },
+    {
+        "name": "One Knob Freebies",
+        "developer": "Baby Audio",
+        "img":"/images/bafreebies.webp",
+        "category": "bundle",
+        "descr": "One-knob plugins from Baby Audio.",
+        "url": "https://babyaud.io/freebies/"  
+    },
+    {
+        "name": "Flux Mini 2",
+        "developer": "Caelum Audio",
+        "img":"/images/fluxmini2.webp",
+        "category": "modulation",
+        "descr": "Add life, character and dynamism to your music.",
+        "url": "https://www.caelumaudio.com/CaelumAudio/?Page=FluxMini2"  
+    },
+    {
+        "name": "RO-GOLD",
+        "developer": "Black Rooster Audio",
+        "img":"/images/rogold.webp",
+        "category": "reverb",
+        "descr": "The RO-GOLD was faithfully modeled after an iconic hardware classic, and upgraded with a 24k gold plate, for the most luxurious vintage reverberation experience.",
+        "url": "https://blackroosteraudio.com/en/products/ro-gold"  
+    },
+    {
+        "name": "Usynth Drive",
+        "developer": "Ujam",
+        "img":"/images/usynthdrive.webp",
+        "category": "synth",
+        "descr": "DRIVE is free yet fully functional and similar to all other Usynth titles.",
+        "url": "https://www.ujam.com/usynth/drive/"  
+    }                            
 ]
