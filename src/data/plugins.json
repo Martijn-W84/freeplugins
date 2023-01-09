@@ -350,5 +350,21 @@
         "category": "synth",
         "descr": "DRIVE is free yet fully functional and similar to all other Usynth titles.",
         "url": "https://www.ujam.com/usynth/drive/"  
-    }                            
+    },
+    {
+        "name": "Momentum",
+        "developer": "Big Fish Audio",
+        "img":"/images/momentum.webp",
+        "category": "multi-fx",
+        "descr": "Momentum is a free plugin from Big Fish Audio that unlocks the potential of your loops and samples with the next generation of sound sculpting tools.",
+        "url": "https://www.bigfishaudio.com/momentum.html"  
+    },
+    {
+        "name": "Convology XT",
+        "developer": "Impulse Record",
+        "img":"/images/convologyxt.webp",
+        "category": "reverb",
+        "descr": "The beauty of Convology XT is the ease of plugin use and file browsing, with a huge vintage verb library, with truly world class impulse response files, from all of the world!",
+        "url": "https://impulserecord.com/project/convology-xt-plugin/"  
+    }                              
 ]

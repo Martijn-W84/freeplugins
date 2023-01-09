@@ -50,7 +50,7 @@
 	svg.searchActive{
 		cursor: pointer;
 	}
-
+	
 	#circle, #negLine, #posLine{
 		transition: 0.3s ease-in-out;
 	}
